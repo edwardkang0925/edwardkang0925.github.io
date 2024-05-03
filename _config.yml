@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # FIXME
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-4605-6353"
+  orcid            : "0009-0009-4605-6353"
   pubmed           : # FIXME
   researchgate     : # URL
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/edwardkang0925"
+  github           : "edwardkang0925"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
