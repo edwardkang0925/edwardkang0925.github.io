@@ -21,4 +21,5 @@ Preprint
 - Acharya S, Liao S, Jung WJ, Kang YS, Moghaddam VA, Feitosa M, Wojczynski M, Lin S, Anema JA, Schwander K, Connell JO, Province M, Brent MR. Multi-omics Integration Identifies Genes Influencing Traits Associated with Cardiovascular Risks: The Long Life Family Study. medRxiv. 2024:2024.03.04.24303657. doi: [https://doi.org/10.1101/2024.03.04.24303657](https://doi.org/10.1101/2024.03.04.24303657) (Submitted)
 
 CV
-------
+======
+- [View my CV](/files/EdwardKang_CV.pdf)
