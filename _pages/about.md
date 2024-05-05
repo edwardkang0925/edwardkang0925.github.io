@@ -17,8 +17,8 @@ Education
 
 Preprint
 ======
-- Kang YS, Jung J, Brown H, Mateusiak C, Doering TL, Brent MR. How host-like signals drive gene expression and gene expression drives capsule expansion in Cryptococcus neoformans. bioRxiv. 2023 Apr 20:2023.04.19.537239. doi: https://doi.org/10.1101/2023.04.19.537239(Submitted)
-- Acharya S, Liao S, Jung WJ, Kang YS, Moghaddam VA, Feitosa M, Wojczynski M, Lin S, Anema JA, Schwander K, Connell JO, Province M, Brent MR. Multi-omics Integration Identifies Genes Influencing Traits Associated with Cardiovascular Risks: The Long Life Family Study. medRxiv. 2024:2024.03.04.24303657. doi: https://doi.org/10.1101/2024.03.04.24303657 (Submitted)
+- Kang YS, Jung J, Brown H, Mateusiak C, Doering TL, Brent MR. How host-like signals drive gene expression and gene expression drives capsule expansion in Cryptococcus neoformans. bioRxiv. 2023 Apr 20:2023.04.19.537239. doi: [https://doi.org/10.1101/2023.04.19.537239](https://doi.org/10.1101/2023.04.19.537239)(Submitted)
+- Acharya S, Liao S, Jung WJ, Kang YS, Moghaddam VA, Feitosa M, Wojczynski M, Lin S, Anema JA, Schwander K, Connell JO, Province M, Brent MR. Multi-omics Integration Identifies Genes Influencing Traits Associated with Cardiovascular Risks: The Long Life Family Study. medRxiv. 2024:2024.03.04.24303657. doi: [https://doi.org/10.1101/2024.03.04.24303657](https://doi.org/10.1101/2024.03.04.24303657) (Submitted)
 
 CV
 ------
