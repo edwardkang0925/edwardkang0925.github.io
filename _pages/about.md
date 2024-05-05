@@ -11,13 +11,14 @@ Hi! I'm Edward, a first year computer science PhD candidate at Washington Univer
 
 Education
 ======
-- B.S. in Computer Science, Washington University in St. Louis, 2021
+- A.B. in Mathematics, Washington University in St. Louis, 2021
+- Second Major in Computer Science, Washington University in St. Louis, 2021
 - M.S. in Computer Science, Washington University in St. Louis, 2022
 
 Preprint
 ======
-- Jung J, Kang YS, Brown H, Mateusiak C, Doering TL, Brent MR. How host-like signals drive gene expression and gene expression drives capsule expansion in Cryptococcus neoformans. bioRxiv. 2023 Apr 20:2023.04.19.537239. doi: 10.1101/2023.04.19.537239. PMID: 37131703; PMCID: PMC10153387. (Submitted)
-- Acharya S, Liao S, Jung WJ, Kang YS, Moghaddam VA, Feitosa M, Wojczynski M, Lin S, Anema JA, Schwander K, Connell JO, Province M, Brent MR. Multi-omics Integration Identifies Genes Influencing Traits Associated with Cardiovascular Risks: The Long Life Family Study. medRxiv. 2024:2024.03.04.24303657. https://doi.org/10.1101/2024.03.04.24303657 (Submitted)
+- Kang YS, Jung J, Brown H, Mateusiak C, Doering TL, Brent MR. How host-like signals drive gene expression and gene expression drives capsule expansion in Cryptococcus neoformans. bioRxiv. 2023 Apr 20:2023.04.19.537239. doi: https://doi.org/10.1101/2023.04.19.537239(Submitted)
+- Acharya S, Liao S, Jung WJ, Kang YS, Moghaddam VA, Feitosa M, Wojczynski M, Lin S, Anema JA, Schwander K, Connell JO, Province M, Brent MR. Multi-omics Integration Identifies Genes Influencing Traits Associated with Cardiovascular Risks: The Long Life Family Study. medRxiv. 2024:2024.03.04.24303657. doi: https://doi.org/10.1101/2024.03.04.24303657 (Submitted)
 
 CV
 ------
